@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BanditWithOneArm", "BanditWithOneArm\BanditWithOneArm.csproj", "{7E328F6F-3E5D-4EED-A1BA-92D0554E502E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E328F6F-3E5D-4EED-A1BA-92D0554E502E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E328F6F-3E5D-4EED-A1BA-92D0554E502E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E328F6F-3E5D-4EED-A1BA-92D0554E502E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E328F6F-3E5D-4EED-A1BA-92D0554E502E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62C7CBAE-0BBC-48A4-83CE-0D50AE87429A}
+	EndGlobalSection
+EndGlobal
